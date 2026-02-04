@@ -4,7 +4,7 @@ Feature Transfer Tool is a free open-source plugin for QGIS that provides a seam
 
 Feature Transfer Tool designed for efficiency and ease of use. To ensure the feature data accurately copy and paste.
 
-The extension is available from the official repository [QGIS plugins page](https://plugins.qgis.org/plugins/featuretransfer/). 
+The extension is available from the official repository [QGIS plugins page](https://plugins.qgis.org/plugins/). 
 
 Use the QGIS Plugins menu to install the Feature Transfer Tool [QGIS manual](https://docs.qgis.org/3.34/en/docs/user_manual/plugins/plugins.html).
 
@@ -31,7 +31,7 @@ Feature Transfer Tool is under development and test with QGIS 3.34.
 
 ## Tutorial 
 
-Guide for **Feature Transfer Tool** is available here: [Feature Transfer Tool](https://gis.com.my/training/feature-transfer-tool/).
+Guide for **Feature Transfer Tool** is available here: [Feature Transfer Tool](https://gis.com.my/training/feature-transfer-tool/)
 
 
 ## Installation
