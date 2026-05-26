@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/featuretransfer" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>
