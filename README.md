@@ -6,9 +6,9 @@ Feature Transfer Tool designed for efficiency and ease of use. To ensure the fea
 
 The extension is available from the official repository [QGIS plugins page](https://plugins.qgis.org/plugins/). 
 
-Use the QGIS Plugins menu to install the Feature Transfer Tool [QGIS manual](https://docs.qgis.org/3.34/en/docs/user_manual/plugins/plugins.html).
+Use the QGIS Plugins menu to install the Feature Transfer Tool [QGIS manual](https://docs.qgis.org/3.44/en/docs/user_manual/plugins/plugins.html).
 
-Feature Transfer Tool is under development and test with QGIS 3.34.
+Feature Transfer Tool is under development and test with QGIS 4.0.
 
 
 ## Functionality
